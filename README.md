@@ -20,7 +20,7 @@ A Chrome Extension that summarizes web articles using Google Gemini API.
 4. Open any article and click summarize
 
 ## Demo
-(Add screenshot here)
 
-## Author
-Your Name
+
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/c67d1290-b34e-4221-aaef-5c39b5e44488" />
+
